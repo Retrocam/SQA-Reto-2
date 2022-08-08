@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Validar titulos de cinco productos" skipped="0" tests="1" time="54.04" timestamp="2022-08-04 05:00:12"><testcase name="Validacion de cinco productos en falabella"><failure message="expected:&lt;[Combo Audifonos Samsung Bluetooth Buds 2 + Banda Fit 2]&gt; but was:&lt;[AirPods Pro con MagSafe Case]&gt;" type="java.lang.AssertionError">expected:&lt;[Combo Audifonos Samsung Bluetooth Buds 2 + Banda Fit 2]&gt; but was:&lt;[AirPods Pro con MagSafe Case]&gt;</failure><system-err>expected:&lt;[Combo Audifonos Samsung Bluetooth Buds 2 + Banda Fit 2]&gt; but was:&lt;[AirPods Pro con MagSafe Case]&gt;&#13;
-co.com.falabella.steps.MetodosSeleniumSteps.validacion(MetodosSeleniumSteps.java:22)&#13;
-co.com.falabella.steps.ProductosSteps.scrollear(ProductosSteps.java:40)&#13;
-co.com.falabella.stepDefinitions.ProductoStepDefinition.doyClickEnUnProducto(ProductoStepDefinition.java:33)&#13;
-✽.doy click en un producto(src/test/resources/co.com.falabella.features/productos.feature:5)&#13;
-</system-err></testcase></testsuite>
